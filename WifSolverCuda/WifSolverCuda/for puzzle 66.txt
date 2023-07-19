@@ -1,0 +1,17 @@
+The Best-Faster Program is "WifSolverCuda" from https://github.com/PawelGorny/WifSolverCuda use git clone https://github.com/PawelGorny/WifSolverCuda.git
+___________________________________________________________________________________________________________________________
+works so ez if you RUN FIRST ALL this commands in this nootbook:
+https://colab.research.google.com/github/NVDLI/notebooks/blob/master/even-easier-cuda/An_Even_Easier_Introduction_to_CUDA.ipynb
+___________________________________________________________________________________________________________________________
+for Puzzle 66 2 rangs :
+if stride is recomended toujour (stride 1)
+
+-wifStart 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipF3e9moZmEXRYHiNYZ -wifEnd 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipJyJKXBJopUqpWyaGa
+-s 22000000000000000 -e 2efffffffffffffff  // 22000000000000000:2efffffffffffffff
+0000000000000000000000000000000000000000000000022000000000000000:000000000000000000000000000000000000000000000002efffffffffffffff
+أو 
+-s 34000000000000000 -e 3efffffffffffffff  // 34000000000000000:3efffffffffffffff
+0000000000000000000000000000000000000000000000034000000000000000:000000000000000000000000000000000000000000000003efffffffffffffff
+-wifStart 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipLUrr3FD4CTrNuRZDe -wifEnd 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipPoVbynzQERfjSbBTX
+
+----------------------------------------------------------------------------------------------------------------------------

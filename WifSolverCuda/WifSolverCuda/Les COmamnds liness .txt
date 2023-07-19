@@ -1,0 +1,30 @@
+Les Commands line in google Collab Aprés le demmarage commplee Run all commands de : 
+colab.research.google.com/github/NVDLI/notebooks/blob/master/even-easier-cuda/An_Even_Easier_Introduction_to_CUDA.ipynb
+Dont forget to "Connect" the Netbook first with Python - GPU -T4 in nootbook Settings
+Add + Code
+toujour demmare the first command line with "!" 
+1-!git clone https://github.com/PawelGorny/WifSolverCuda.git
+2-!cd WifSolverCuda/WifSolverCuda && chmod +x Makefile
+3-!cd WifSolverCuda/WifSolverCuda && make all
+4-!cd WifSolverCuda/WifSolverCuda && chmod +x ./wifSolver
+5-!cd WifSolverCuda/WifSolverCuda && ./wifSolver -stride 1 -wifStart 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipF3e9moZmEXRYHiNYZ -wifEnd 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipJyJKXBJopUqpWyaGa -u -a 13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so -fstatus fileStatus.txt -fresult Found.txt
+for next runs with ./wifSolver -restore fileStatus.txt -fstatus fileStatus.txt -fresult Found.txt
+SI VOUS VOULLER VRAIMENT ENGISTRE TES FICHER IL FAUY MIEUX CONNECTE ton Google-drive et Apres ... importes et fais tous ces commands line dans La :
+6-!cd drive/MyDrive && git clone https://github.com/PawelGorny/WifSolverCuda.git
+et apres tous Sa Sera le meme mais votre diroctery
+7-!cd drive/MyDrive/WifSolverCuda/WifSolverCuda && ls
+.....etc ... etc
+
+
+
+
+
+
+!git clone https://github.com/dragonhlf8/WifCuda
+!cd WifCuda/WifSolverCuda &&
+!cd drive/MyDrive &&
+!cd WifCuda/WifSolverCuda && ./wifSolver -stride 1 -wifStart 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipF3e9moZmEXRYHiNYZ -wifEnd 5Km2kuu7vtFDPpxywn4u3NLpbr5jKpTB3jsuDU2KYEqetqj84qw -u -afile address.txt -fstatus fileStatus.txt -fresult Found.txt
+!cd WifCuda/WifSolverCuda && ./wifSolver -stride 1 -wifStart 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipF3e9moZmEXRYHiNYZ -wifEnd 5HpHagT65TZzG1PH3CrEh2rRWK1P5xJDoqV7YfB22WMu7JVwPQM -u -afile address.txt -fstatus fileStatus.txt -fresult Found.txt
+!cd WifCuda/WifSolverCuda && ./wifSolver -stride 1 -wifStart 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipF3e9moZmEXRYHiNYZ -wifEnd 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5irjNTFjS5s4tc3yyK9m -u -afile addresses.txt -fstatus fileStatus.txt -fresult Found.txt
+!cd WifCuda/WifSolverCuda && ./wifSolver -stride 1 -wifStart 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipF3e9moZmEXRYHiNYZ -wifEnd 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipJyJKXBJopUqpWyaGa -u -a 13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so -fstatus fileStatus.txt -fresult Found.txt
+!cd WifCuda/WifSolverCuda && ./wifSolver -stride 1 -wifStart 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipLUrr3FD4CTrNuRZDe -wifEnd 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipPoVbynzQERfjSbBTX -u -a 13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so -fstatus fileStatus.txt -fresult Found.txt

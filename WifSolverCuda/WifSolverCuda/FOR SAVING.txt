@@ -1,0 +1,9 @@
+
+For Saving Start for the First time :
+
+./wifSolver -stride 1 -wifStart 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipF3e9moZmEXRYHiNYZ -wifEnd 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipJyJKXBJopUqpWyaGa -u -a 13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so -fstatus fileStatus.txt -fresult Found.txt
+----------------------------------------
+So than in all Next Runs Just Start :
+
+./wifSolver -restore fileStatus.txt -fstatus fileStatus.txt -fresult Found.txt
+_________________________________________________________________________________
